@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi,I'm WeiLengDeZaoShang 👋
 
-<!--
-**weilengdezaoshang/weilengdezaoshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-Here are some ideas to get you started:
+### 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :two_hearts: Hobby
+- :cat: Love cats
+- 🏃  Exercise every day
+- :pencil: Writer at [wldz.club](https://wldz.club)
+- :book: Look at the humanities, literature, prose
+
+
+### :pencil: Blog
+
+- [wldz.club](https://wldz.club)
+- [掘金](https://juejin.cn/user/2718436552614461/posts)
+
+###  :mailbox_closed: Contact me
+
+- Emall:910843376@qq.com
+
+
+### 💻 Technologies used
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D ) ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white ) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=weilengdezaoshang&count_private=true&show_icons=true&theme=buefy&hide_border=true"/>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilengdezaoshang&layout=compact&theme=buefy&hide_border=true" />
