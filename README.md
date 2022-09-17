@@ -27,4 +27,4 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D ) ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white ) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=weilengdezaoshang&count_private=true&show_icons=true&theme=graywhite&hide_border=true"/>
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilengdezaoshang&layout=compact&theme=graywhite&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilengdezaoshang&layout=compact&theme=graywhite&hide_border=true" />
