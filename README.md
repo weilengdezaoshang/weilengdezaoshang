@@ -8,13 +8,13 @@
 ### :two_hearts: Hobby
 - :cat: Love cats
 - 🏃  Exercise every day
-- :pencil: Writer at [wldz.club](https://wldz.club)
+- :pencil: Writer at [个人随笔](https://wldz.club)
 - :book: Look at the humanities, literature, prose
 
 
 ### :pencil: Blog
 
-- [wldz.club](https://wldz.club)
+- [个人随笔](https://wldz.club)
 - [掘金](https://juejin.cn/user/2718436552614461/posts)
 
 ###  :mailbox_closed: Contact me
